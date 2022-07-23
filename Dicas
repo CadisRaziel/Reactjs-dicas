@@ -1,0 +1,2 @@
+ //Criando projeto react utilizando typescript
+ npx create-react-app nome_projeto --template typescript 
