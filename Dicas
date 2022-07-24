@@ -1,2 +1,30 @@
  //Criando projeto react utilizando typescript
  npx create-react-app nome_projeto --template typescript 
+
+
+npx -> permite que execute pacote do node sem installar na nossa maquina
+
+
+npm start -> Para rodar um servidor e abrir a porta 3000 ou 8080, conforme voce escolha
+
+pasta public -> tudo que for acessivel no projeto (pasta assets por exemplo)
+
+JSX -> HTML misturado com javascript (typescript com jsx)
+sempre que tiver um X no final, tem um componente, um html
+
+se eu for criar um serviço ou utilitario eu crio como TS
+
+
+//componente
+function Component(propriedades) {
+  return(HTML)
+}
+
+utilizando a extension ReactJS code snippets
+fsc -> cria um componente (um stateless, porém com react hooks pode ficar statefull)
+
+axios -> fazer requisição axios
+
+
+useState -> React Hook
+useEffect -> para se renderizar somente quando necessario
